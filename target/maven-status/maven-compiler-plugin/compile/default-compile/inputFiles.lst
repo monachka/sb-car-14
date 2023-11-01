@@ -1,0 +1,15 @@
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/domain/UserRepository.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/SecurityConfig.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/domain/Owner.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/domain/OwnerRepository.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/AuthEntryPoint.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/domain/BaseEntity.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/domain/CarRepository.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/web/LoginController.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/service/JwtService.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/service/UserDetailsServiceImpl.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/domain/Car.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/AuthenticationFilter.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/SbCarBackend.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/domain/AccountCredentials.java
+/home/mnck/MNCK/Programmes/Semestre5/DevAppN-T/appli_codes/Repos/Lab14/src/main/java/com/dame/uasz/sbcar3/domain/User.java
