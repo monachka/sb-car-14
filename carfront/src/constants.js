@@ -1,1 +1,1 @@
-export const SERVER_URL = 'https://monachka-car-app.onrender.com/';
+export const SERVER_URL = 'https://100.20.92.101:443/';
