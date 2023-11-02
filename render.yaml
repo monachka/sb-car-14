@@ -1,0 +1,2 @@
+buildCommand: mvn clean install
+language: java
